@@ -2,29 +2,29 @@
 
 Just one of the things I'm learning. <https://github.com/hchiam/learning>
 
-## Featured Community Template with Svelte + Typescript + TailwindCSS + Snowpack:
+(If you need to use `npm` instead of [`yarn`](https://github.com/hchiam/learning-yarn), just remove the `--use-yarn` option and replace `yarn start` with `npm start`.)
+
+### Snowpack + Svelte + Typescript + TailwindCSS: ([snowpack-svelte-ts-tw](https://github.com/GarrettCannon/snowpack-svelte-ts-tw) or [app-template-sstt](https://github.com/LBrian/app-template-s2t2))
 
 Triple-click to select all:
 
 `npx create-snowpack-app my-app --template snowpack-svelte-ts-tw --use-yarn && cd my-app && yarn start`
 
-https://github.com/GarrettCannon/snowpack-svelte-ts-tw
+Triple-click to select all:
 
-## Official App Template with Svelte + TypeScript + Snowpack:
+`npx create-snowpack-app my-app --template app-template-sstt --use-yarn && cd my-app && yarn start`
+
+### Snowpack + Svelte + TypeScript: ([official template](https://github.com/snowpackjs/snowpack/tree/main/create-snowpack-app/app-template-svelte-typescript))
 
 Triple-click to select all:
 
 `npx create-snowpack-app my-app --template @snowpack/app-template-svelte-typescript --use-yarn && cd my-app && yarn start`
 
-https://github.com/snowpackjs/snowpack/tree/main/create-snowpack-app/app-template-svelte-typescript
-
-## Official App Template with React + TypeScript + Snowpack:
+### Snowpack + React + TypeScript: ([official template](https://github.com/snowpackjs/snowpack/tree/main/create-snowpack-app/app-template-react-typescript))
 
 Triple-click to select all:
 
 `npx create-snowpack-app my-app --template @snowpack/app-template-react-typescript --use-yarn && cd my-app && yarn start`
-
-https://github.com/snowpackjs/snowpack/tree/main/create-snowpack-app/app-template-react-typescript
 
 ## All Official CSA Templates:
 
