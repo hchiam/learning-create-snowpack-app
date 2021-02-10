@@ -14,7 +14,7 @@ https://github.com/GarrettCannon/snowpack-svelte-ts-tw
 
 Triple-click to select all:
 
-`npx create-snowpack-app new-dir --template @snowpack/app-template-svelte-typescript --use-yarn && cd my-app && yarn start`
+`npx create-snowpack-app my-app --template @snowpack/app-template-svelte-typescript --use-yarn && cd my-app && yarn start`
 
 https://github.com/snowpackjs/snowpack/tree/main/create-snowpack-app/app-template-svelte-typescript
 
@@ -22,7 +22,7 @@ https://github.com/snowpackjs/snowpack/tree/main/create-snowpack-app/app-templat
 
 Triple-click to select all:
 
-`npx create-snowpack-app new-dir --template @snowpack/app-template-react-typescript --use-yarn && cd my-app && yarn start`
+`npx create-snowpack-app my-app --template @snowpack/app-template-react-typescript --use-yarn && cd my-app && yarn start`
 
 https://github.com/snowpackjs/snowpack/tree/main/create-snowpack-app/app-template-react-typescript
 
